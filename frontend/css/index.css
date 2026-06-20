@@ -40,3 +40,20 @@ body{
 .card img{
     width: 100%;
 }
+.card button{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.toggle{
+    width: 300px;
+    margin: 100px auto;
+    text-align:center;
+}
+
+.toggle img{
+    width: 100%;
+}
+.toggle button{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
