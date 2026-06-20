@@ -1,17 +1,13 @@
 h1{
-    color:red;
-}
-#heading-2{
-    color:blue;
-}
-.heading{
-    color:green;
+    color:black;
+    text-align:center;
+    font-weight:600;
+    font-size:80px;
 }
 .para{
-    border:3px solid black;
-    padding:10px;
     text-align:center;
-    font-size:20px;
+    font-size:50px;
+    padding:20px;
 }
 .navbar{
     border:3px solid black;
